@@ -1,0 +1,26 @@
+
+const string TOPIC_TRADER_OC = "Trade in the castle";
+const string TOPIC_CITYTRADER = "Trade in Khorinis";
+const string TOPIC_OUTTRADER = "Trade in the outer world";
+const string TOPIC_SOLDIERTRADER = "Trade on Onar's farm";
+const string TOPIC_TEACHER = "Learning";
+const string TOPIC_TEACHER_OC = "Learning in the castle";
+const string TOPIC_SOLDIERTEACHER = "Learning on Onar's farm";
+const string TOPIC_OUTTEACHER = "Learning in the outer world";
+const string TOPIC_CITYTEACHER = "Learning in Khorinis";
+const string TOPIC_ADDON_KDWTEACHER = "Learning from the Water Mages";
+const string TOPIC_TALENTSMITH = "Forging";
+const string TOPIC_TALENTBOWMAKE = "Crafting bows and arrows";
+const string TOPIC_TALENTOREMASTER = "Mining";
+const string TOPIC_TALENTWOODMASTER = "Woodcutting";
+const string TOPIC_TALENTLEATHER = "Tanning";
+const string TOPIC_TALENTENCHANTING = "Enchanting";
+const string TOPIC_TALENTFOOD = "Cooking";
+const string TOPIC_TALENTRUNES = "Runes";
+const string TOPIC_TALENTALCHEMY = "Potions";
+const string TOPIC_TALENTANIMALTROPHY = "Animal processing";
+const string TOPIC_TALENTMAGICCIRCLE = "The Circles of Magic";
+const string TOPIC_WISPDETECTOR = "The searching will-o'-the-wisp";
+const string TOPIC_LANGUAGE = "The language of the builders";
+const string TOPIC_BONUS = "Specials";
+const string TOPIC_DIEBESGILDE = "Thieves' guild";
